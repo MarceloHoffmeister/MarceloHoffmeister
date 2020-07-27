@@ -1,16 +1,28 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="160">
 
-<!--
-**MarceloHoffmeister/MarceloHoffmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Marcelo Hoffmeister
+## Full Stack Developer 👨‍💻
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/LinkedIn-MarceloHoffmeister-blue)](https://www.linkedin.com/in/marcelo-hoffmeister/)
+[![](https://img.shields.io/badge/Twitter-Hoffmeister__-blue)](https://twitter.com/Hoffmeister__)
+[![](https://img.shields.io/badge/Gmail-marcelohenriquehoffmeister%40gmail.com-red)](mailto:marcelohenriquehoffmeister@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### A little more about me...  
+
+```javascript
+const hoffmeister = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["nodejs", "express", "php", "laravel"],
+        fronEnd: ["react", "vue"],
+        mobileApp: ["react native"],
+        database: ["postgresql","mysql"],
+        serverless: ["aws-lambda"],
+        devOps: ["AWS", "Nginx", "Apache"],
+        misc: ["Firebase"]
+    },
+    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+}
+```
