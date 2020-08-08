@@ -14,7 +14,7 @@
 const hoffmeister = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
+    technologies: {
         backEnd: ["nodejs", "express", "php", "laravel"],
         fronEnd: ["react", "vue"],
         mobileApp: ["react native"],
