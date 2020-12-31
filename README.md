@@ -3,9 +3,7 @@
 ## I'm Marcelo Hoffmeister
 ## Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-MarceloHoffmeister-lightgrey?style=for-the-badge)](https://www.linkedin.com/in/marcelo-hoffmeister/)
-[![](https://img.shields.io/twitter/follow/hoffmeister__?style=for-the-badge)](https://twitter.com/Hoffmeister__)
-[![](https://img.shields.io/badge/Gmail-marcelohenriquehoffmeister%40gmail.com-lightgrey?style=for-the-badge)](mailto:marcelohenriquehoffmeister@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-MarceloHoffmeister-lightgrey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcelo-hoffmeister/) [![](https://img.shields.io/badge/Twitter-%40Hoffmeister____%20-lightgrey?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hoffmeister__) [![](https://img.shields.io/badge/Gmail-marcelohenriquehoffmeister-lightgrey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelohenriquehoffmeister@gmail.com)
 
 
 ### A little more about me...
@@ -27,4 +25,4 @@ const hoffmeister = {
 }
 ```
 
-![stats](https://github-readme-stats.vercel.app/api?username=marcelohoffmeister&count_private=true&show_icons=true&hide_border=true&bg_color=161B22&title_color=76BCFA&text_color=9ECEF6&icon_color=9ECEF6)
+![](https://github-readme-stats.vercel.app/api?username=marcelohoffmeister&count_private=true&show_icons=true&hide_border=true&bg_color=161B22&title_color=76BCFA&text_color=9ECEF6&icon_color=9ECEF6)
