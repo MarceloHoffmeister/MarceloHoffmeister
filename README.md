@@ -1,5 +1,3 @@
-![Marcelo Hoffmeister github stats](https://github-readme-stats.vercel.app/api?username=marcelohoffmeister&count_private=true&show_icons=true&hide_border=true&bg_color=161B22&title_color=76BCFA&text_color=9ECEF6&icon_color=9ECEF6)
-
 ## I'm Marcelo Hoffmeister
 ## Full Stack Developer 👨‍💻
 
@@ -8,7 +6,7 @@
 [![](https://img.shields.io/badge/Gmail-marcelohenriquehoffmeister%40gmail.com-red)](mailto:marcelohenriquehoffmeister@gmail.com)
 
 
-### A little more about me...  
+### A little more about me...
 
 ```javascript
 const hoffmeister = {
@@ -26,3 +24,5 @@ const hoffmeister = {
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
 ```
+
+![stats](https://github-readme-stats.vercel.app/api?username=marcelohoffmeister&count_private=true&show_icons=true&hide_border=true&bg_color=161B22&title_color=76BCFA&text_color=9ECEF6&icon_color=9ECEF6)
