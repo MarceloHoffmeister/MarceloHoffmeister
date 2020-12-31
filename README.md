@@ -3,8 +3,11 @@
 ## I'm Marcelo Hoffmeister
 ## Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-MarceloHoffmeister-lightgrey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcelo-hoffmeister/) [![](https://img.shields.io/badge/Twitter-%40Hoffmeister____%20-lightgrey?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hoffmeister__) [![](https://img.shields.io/badge/Gmail-marcelohenriquehoffmeister-lightgrey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelohenriquehoffmeister@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-MarceloHoffmeister-lightgrey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcelo-hoffmeister/)
 
+[![](https://img.shields.io/badge/Twitter-%40Hoffmeister____%20-lightgrey?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hoffmeister__)
+
+[![](https://img.shields.io/badge/Gmail-marcelohenriquehoffmeister%40gmail.com-lightgrey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelohenriquehoffmeister@gmail.com)
 
 ### A little more about me...
 
