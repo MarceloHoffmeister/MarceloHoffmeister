@@ -3,9 +3,9 @@
 ## I'm Marcelo Hoffmeister
 ## Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-MarceloHoffmeister-blue)](https://www.linkedin.com/in/marcelo-hoffmeister/)
-[![](https://img.shields.io/badge/Twitter-Hoffmeister__-blue)](https://twitter.com/Hoffmeister__)
-[![](https://img.shields.io/badge/Gmail-marcelohenriquehoffmeister%40gmail.com-red)](mailto:marcelohenriquehoffmeister@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-MarceloHoffmeister?style=for-the-badge)](https://www.linkedin.com/in/marcelo-hoffmeister/)
+[![](https://img.shields.io/twitter/follow/hoffmeister__?style=for-the-badge)](https://twitter.com/Hoffmeister__)
+[![](https://img.shields.io/badge/Gmail-marcelohenriquehoffmeister%40gmail.com?style=for-the-badge)](mailto:marcelohenriquehoffmeister@gmail.com)
 
 
 ### A little more about me...
