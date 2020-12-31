@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="160">
+![Marcelo Hoffmeister github stats](https://github-readme-stats.vercel.app/api?username=marcelohoffmeister&count_private=true&show_icons=true&hide_border=true&bg_color=161B22&title_color=76BCFA&text_color=9ECEF6&icon_color=9ECEF6)
 
 ## I'm Marcelo Hoffmeister
 ## Full Stack Developer 👨‍💻
