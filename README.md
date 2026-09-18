@@ -1,30 +1,39 @@
-<img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="160">
+<img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="160">
 
-## I'm Marcelo Hoffmeister
-## Full Stack Developer 👨‍💻
+## Oi, eu sou o Marcelo 👋
+
+Desenvolvedor de formação, mas o código é só uma parte do que eu curto. Fora da tela do trabalho, sobra tempo pra mercado financeiro, filme, anime, mangá e jogo — geralmente nessa ordem de prioridade, dependendo da semana.
 
 [![](https://img.shields.io/badge/LinkedIn-MarceloHoffmeister-lightgrey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcelo-hoffmeister/)
-
-[![](https://img.shields.io/badge/Twitter-%40Hoffmeister____%20-lightgrey?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hoffmeister__)
-
 [![](https://img.shields.io/badge/Gmail-marcelohenriquehoffmeister%40gmail.com-lightgrey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelohenriquehoffmeister@gmail.com)
 
-### A little more about me...
+### 📈 Mercado financeiro
+
+Estudo análise técnica e gestão de risco por conta própria, e mantenho algumas ferramentas caseiras pra apoiar isso — desde scripts de backtest até planilhas de controle de risco. É o hobby que mais se parece com trabalho, mas é o que mais gosto de fazer.
+
+### 🎬 Fora da tela do PC
+
+- **Filmes** de vários gêneros, sem muito preconceito de catálogo
+- **Animes e mangás** — sempre acompanhando alguma coisa em exibição
+- **Jogos** nas horas vagas, de PC a console
+
+### 🛠️ Projetos pessoais
+
+Curto colocar a mão na massa em ferramentas próprias — scripts de automação, integrações e experimentos que nascem de "seria legal se isso existisse" e não de demanda de ninguém. Alguns acabam virando repositório aqui, outros ficam só no meu ambiente mesmo.
+
+### 💻 Stack
 
 ```javascript
-const hoffmeister = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
+const marcelo = {
+    pronouns: "ele/dele",
+    interests: ["mercado financeiro", "filmes", "animes", "mangás", "jogos"],
     technologies: {
-        backEnd: ["nodejs", "express", "php", "laravel"],
-        fronEnd: ["react", "vue"],
+        backEnd: ["node.js", "express", "php", "python"],
+        frontEnd: ["react", "vue"],
         mobileApp: ["react native"],
-        database: ["postgresql","mysql"],
-        serverless: ["aws-lambda"],
-        devOps: ["AWS", "Nginx", "Apache"],
-        misc: ["Firebase"]
+        database: ["postgresql", "mysql"],
+        devOps: ["docker", "aws", "nginx"],
     },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
 ```
 
